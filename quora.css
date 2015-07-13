@@ -2,6 +2,9 @@
     text-align: center;
 
 }
+h1.nav1{
+    color: red;
+}
 #section{
     display: block;
     width: 70%;
