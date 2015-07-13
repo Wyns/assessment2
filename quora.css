@@ -1,11 +1,19 @@
 .nav{
     text-align: center;
+
 }
 #section{
     display: block;
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 80%;
     border: 1px solid grey;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; 
+}
+.row{
+    padding: 1px;
+}
+.btn waves-effect waves-light{
+    float: right;
+    height: 20px;
 }
